@@ -2,7 +2,7 @@
 public class HelloGit {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String x = "Escribo algo para cambiar";
 
 	}
 
