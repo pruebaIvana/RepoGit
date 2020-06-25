@@ -2,7 +2,7 @@
 public class HelloGit {
 
 	public static void main(String[] args) {
-		String x = "Escribo algo para cambiar";
+		String x = "Escribo en issue 1 para generar conflicto";
 
 	}
 
